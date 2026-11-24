@@ -1,0 +1,8 @@
+
+RESULTADOS PARA EL README
+- Imágenes de entrenamiento: 30,000 (de 89,996)
+- Exactitud validación (mismo centro): 91.9%
+- Exactitud test (otro centro): 91.8%
+- F1 macro test: 0.883
+- Mejor clase (F1): Fondo
+- Peor clase (F1): Estroma asociado a cáncer
